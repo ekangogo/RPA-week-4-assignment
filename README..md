@@ -1,5 +1,5 @@
 # [ Week 4 ] Independent Project
-####The project is an excel automation challenge comrising of 2 challenges:
+####The project is an excel automation challenge comprising of 2 challenges:
 
 Challenge 1:
 Calculate the sum of the values from two columns in an Excel file in 3 ways. Create a workflow that adds the values on column A with values on column B and writes them in column C in different ways:
